@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Weight Converter</string>
+    <string name="icon_description">An image of the app icon</string>
+    <string name="app_description">A simple application for making weight conversion calculations.</string>
+    <string name="where_to_find_the_author">Find me online here.</string>
+    <string name="link_to_authors_github_account">Author\'s Github Account</string>
+    <string name="link_to_the_authors_linkedin_account">Author\'s LinkedIn Account</string>
+    <string name="link_to_the_authors_freelancer_com_account">Author\'s Freelancer Account</string>
+    <string name="enter_weight">Enter weight…</string>
+    <string name="name"><![CDATA[<name>]]></string>
+    <string name="value"><![CDATA[<value>]]></string>
+
+    <string-array name="weight_options">
+        <item>Metric Ton</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Microgram</item>
+        <item>Imperial Ton</item>
+        <item>Us Ton</item>
+        <item>Stone</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+
+    <string-array name="weight_options_values">
+        <item>35274</item>
+        <item>35.274</item>
+        <item>0.035274</item>
+        <item>0.000035274</item>
+        <item>0.000000035274</item>
+        <item>35840</item>
+        <item>32000</item>
+        <item>224</item>
+        <item>16</item>
+        <item>1</item>
+    </string-array>
+</resources>
